@@ -1,2 +1,2 @@
-# Smart-Campus-Proposal
-Smart Campus Proposal
+# Smart Campus Proposal
+
