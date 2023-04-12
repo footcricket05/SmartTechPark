@@ -13,3 +13,6 @@ A significant quantity of energy is consumed by educational blocks from our inst
 3. Electric energy consumption prediction: Including prediction capabilities in smart buildings, the electric energy consumption can be estimated for the near future. 
 
 Thus, the required amount of energy can be generated and supplied as needed to meet the demands of the electric loads.
+
+## Technical Aspects:
+![image](https://user-images.githubusercontent.com/93007427/231525078-42ea7ffe-fff3-4f75-8a91-a3afa020c653.png)
