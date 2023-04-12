@@ -1,6 +1,6 @@
 # Smart Campus Proposal to make Tech Park Smart
 
-# Elevtrical Energy Conservation
+# Electrical Energy Conservation
 
 
 ## Problem Formulation:
