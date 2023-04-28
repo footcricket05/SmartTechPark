@@ -10,11 +10,11 @@ The educational blocks in our institution consume a significant amount of energy
 
 
 ### Objectives
-1. Monitoring: Conduct an analysis of the environment to understand electrical energy consumption patterns.
+1. `Monitoring`: Conduct an analysis of the environment to understand electrical energy consumption patterns.
 
-2. Intelligence-enabled electrical energy automation system: Develop an IoT-driven building towards an energy-automated environment.
+2. `Intelligence-enabled electrical energy automation system`: Develop an IoT-driven building towards an energy-automated environment.
 
-3. Electric energy consumption prediction: Implement prediction capabilities in smart buildings to estimate electric energy consumption for the near future.
+3. `Electric energy consumption prediction`: Implement prediction capabilities in smart buildings to estimate electric energy consumption for the near future.
 
 These objectives aim to generate and supply the required amount of energy needed to meet the demands of the electric loads.
 
