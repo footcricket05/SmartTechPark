@@ -38,5 +38,4 @@ As this repository only contains a single PDF file, there is no scope for extern
 
 
 
-### License
-This project is licensed under the MIT License. See the LICENSE file for more information.
+
