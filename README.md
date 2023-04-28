@@ -28,3 +28,5 @@ The technical aspects involve implementing an IoT-driven electrical energy autom
 
 
 
+### License
+This project is licensed under the MIT License. See the LICENSE file for more information.
