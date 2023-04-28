@@ -1,18 +1,27 @@
 # Smart Campus Proposal to make Tech Park Smart
 
-# Electrical Energy Conservation
+## Electrical Energy Conservation
 
 
-## Problem Formulation:
-A significant quantity of energy is consumed by educational blocks from our institution. The appliance runs on a set schedule in most of the blocks. As a result, the appliance remains switched ON whether the user needs it or not. This inefficient electrical energy management results in significant energy waste and high electricity bills.
+### Problem Statement
+The educational blocks in our institution consume a significant amount of energy, which is often wasted due to inefficient management. Appliances in these blocks operate on a set schedule, leading to them being switched on even when not needed, resulting in high electricity bills.
 
 
-## Objectives: 
-1. Monitoring: Study of the environment in view of electrical energy consumption 
-2. Intelligence-enabled electrical energy automation system: Development of an IoT-driven building toward an energy-automated environment
-3. Electric energy consumption prediction: Including prediction capabilities in smart buildings, the electric energy consumption can be estimated for the near future. 
+### Objectives
+1. Monitoring: Conduct an analysis of the environment to understand electrical energy consumption patterns.
 
-Thus, the required amount of energy can be generated and supplied as needed to meet the demands of the electric loads.
+2. Intelligence-enabled electrical energy automation system: Develop an IoT-driven building towards an energy-automated environment.
 
-## Technical Aspects:
+3. Electric energy consumption prediction: Implement prediction capabilities in smart buildings to estimate electric energy consumption for the near future.
+
+These objectives aim to generate and supply the required amount of energy needed to meet the demands of the electric loads.
+
+
+### Technical Aspects
+
 ![image](https://user-images.githubusercontent.com/93007427/231525078-42ea7ffe-fff3-4f75-8a91-a3afa020c653.png)
+
+The technical aspects involve implementing an IoT-driven electrical energy automation system that monitors and regulates energy consumption. The proposed system uses sensors to gather real-time data on energy consumption patterns and processes the information through machine learning algorithms to provide predictive insights into energy consumption. The system also includes automation controls to enable efficient energy use in educational blocks.
+
+
+
