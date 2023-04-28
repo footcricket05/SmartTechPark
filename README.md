@@ -3,8 +3,10 @@
 ## Electrical Energy Conservation
 
 
+
 ### Problem Statement
 The educational blocks in our institution consume a significant amount of energy, which is often wasted due to inefficient management. Appliances in these blocks operate on a set schedule, leading to them being switched on even when not needed, resulting in high electricity bills.
+
 
 
 ### Objectives
@@ -15,6 +17,7 @@ The educational blocks in our institution consume a significant amount of energy
 3. Electric energy consumption prediction: Implement prediction capabilities in smart buildings to estimate electric energy consumption for the near future.
 
 These objectives aim to generate and supply the required amount of energy needed to meet the demands of the electric loads.
+
 
 
 ### Technical Aspects
